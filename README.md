@@ -11,12 +11,9 @@ Fashion Club is an innovative web application designed to bring the latest trend
 - **Search Functionality**: Quickly find your favorite products with our search feature
 
 ## Live Demo
-Check out the live version of the Fashion Club application here: [Fashion Club Live](https://your-live-demo-url.com)
+Check out the live version of the Fashion Club application here: [Fashion Club Live](https://fashion-club-2tnk.vercel.app/)
 
-## Screenshots
-![Screenshot 1](https://drive.google.com/file/d/1Z4Dhf2_ohiucog_IB4gROzxnRrU9yT7a/view?usp=sharing)
-![Screenshot 2](https://drive.google.com/file/d/1uBt3VNa7ZpcePyxPrXx8MXFyuCdBgR3t/view?usp=sharing)
-![Screenshot 3](https://drive.google.com/file/d/12X71Ll7H9HuFmoqyRmWs37qHbDEsaTTe/view?usp=sharing)
+
 
 ## Table of Contents
 - [Technology Stack](#technology-stack)
